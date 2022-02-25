@@ -22,7 +22,7 @@ namespace Projekt02
             double a = double.Parse(textBox1.Text);
             double b = double.Parse(textBox2.Text);
             MessageBox.Show("Součet je " + (a + b));
-
+            MessageBox.Show("Rozdil je " + (a - b));
         }
     }
 }
