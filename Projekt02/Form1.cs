@@ -24,6 +24,7 @@ namespace Projekt02
             MessageBox.Show("Součet je " + (a + b));
             MessageBox.Show("Rozdil je " + (a - b));
             MessageBox.Show("Soucin je " + (a * b));
+            MessageBox.Show("Podil je " + (a / b));
         }
     }
 }
